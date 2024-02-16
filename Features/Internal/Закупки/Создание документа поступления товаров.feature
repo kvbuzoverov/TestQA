@@ -1,4 +1,6 @@
 ﻿#language: ru
+@Закупки
+@Документы
 @ExportScenarios
 @IgnoreOnCIMainBuild
 
